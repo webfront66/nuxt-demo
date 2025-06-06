@@ -73,3 +73,10 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+
+### 文档
+
+- [seo-meta介绍](docs/seo-meta.md)
+- [seo-meta.app.header介绍](docs/nuxt-app-head-config.md)
